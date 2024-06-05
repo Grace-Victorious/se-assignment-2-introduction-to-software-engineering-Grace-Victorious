@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-Testing 
+**Testing ....**
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
@@ -33,7 +33,8 @@ Discuss the role of a software project manager. What are some key responsibiliti
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
-Ethical Considerations in Software Engineering:
+Ethical Considerations in Software Engineering
+.
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Submission Guidelines:
